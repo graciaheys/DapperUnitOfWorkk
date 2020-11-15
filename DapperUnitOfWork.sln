@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{6FAA81A3-C668-4046-9EC6-F851C6C98914}"
+	ProjectSection(SolutionItems) = preProject
+		CreateDb.sql = CreateDb.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperUow.Console", "DapperUow\DapperUow.Console.csproj", "{54FE3FEF-EF8B-4619-80F1-EA1324144553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperUow.Dal", "DapperUow.Dal\DapperUow.Dal.csproj", "{B8E9BE73-7E05-4B25-8F49-A0E848B62FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FE3FEF-EF8B-4619-80F1-EA1324144553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FE3FEF-EF8B-4619-80F1-EA1324144553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FE3FEF-EF8B-4619-80F1-EA1324144553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FE3FEF-EF8B-4619-80F1-EA1324144553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E9BE73-7E05-4B25-8F49-A0E848B62FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E9BE73-7E05-4B25-8F49-A0E848B62FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E9BE73-7E05-4B25-8F49-A0E848B62FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E9BE73-7E05-4B25-8F49-A0E848B62FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD08846E-2C5B-42AA-8027-8092E96065FE}
+	EndGlobalSection
+EndGlobal

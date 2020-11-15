@@ -1,0 +1,9 @@
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\bin\Debug\netcoreapp3.1\DapperUow.Dal.deps.json
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\bin\Debug\netcoreapp3.1\DapperUow.Dal.dll
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.csprojAssemblyReference.cache
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.AssemblyInfoInputs.cache
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.AssemblyInfo.cs
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\bin\Debug\netcoreapp3.1\DapperUow.Dal.pdb
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.dll
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.pdb
+C:\Users\erdem\source\repos\DapperUnitOfWork\DapperUow.Dal\obj\Debug\netcoreapp3.1\DapperUow.Dal.csproj.CoreCompileInputs.cache
